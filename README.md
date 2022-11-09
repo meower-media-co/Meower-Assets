@@ -8,3 +8,6 @@ Some files are not accessible via GitHub and may require an external program.
 These can usually be opened in any web browser.
 <h3>PXR Files</h3>
 These are pixlr files made before we discovered figma. These can be opened in pixlr.com/e.
+
+<h3>Most UI Assets</h3>
+https://feathericons.com/
